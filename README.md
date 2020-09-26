@@ -1,17 +1,21 @@
-### Hi there 👋
+# 💻Oluwakeye John
 
+Hey there, I am a Web and Mobile App Developer who is passionate about building fast, intuitive and performance-driven applications.
 
-**John-pels/John-pels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love learning new skills and teaming with fellow developers to build amazing stuff.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m John, a Software Engineer based in Oyo State, Ibadan, Nigeria. ...
-- 🔭 I’m currently building products at FandKSavings. ...
-- 🌱 I’m currently learning React Native and mobile developement ...
-- 👯 I’m looking to collaborate on open source projects and build communities...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: @oluseyiajeigbe@yahoo.com...
-- 😄 Pronouns: John_pels...
-- ⚡ Fun fact: Those who talk too much are prone to shame!...
+## 📫 Get in touch
 
+Twitter: [@oluwakeyejohn](https://twitter.com/oluwakeyejohn)
+
+LinkedIn: [oluwakeye-john-1706](https://www.linkedin.com/in/oluwakeye-john-1706/)
+
+Website: https://johnkeye.com
+
+---
+
+## A simple treat for you 😉
+
+What to understand about recursion? click [Here](https://github.com/oluwakeye-john)
