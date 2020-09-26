@@ -10,7 +10,7 @@ I love learning new skills and teaming with fellow developers to build amazing s
 
 Twitter: [@john_pels](https://twitter.com/john_pels)
 
-LinkedIn: [oluwakeye-john-1706](https://www.linkedin.com/in/ajeigbejohn/)
+LinkedIn: [ajeigbejohn](https://www.linkedin.com/in/ajeigbejohn/)
 
 Website: http://johnpels.netlify.app/
 ---
