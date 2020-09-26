@@ -1,6 +1,6 @@
-# 💻Oluwakeye John
+# 💻 Ajeigbe John Oluwaseyi
 
-Hey there, I am a Web and Mobile App Developer who is passionate about building fast, intuitive and performance-driven applications.
+Hey there, a Software Engineer based in Oyo State, Ibadan, Nigeria. I am passionate about building fast, intuitive and performance-driven applications.
 
 I love learning new skills and teaming with fellow developers to build amazing stuff.
 
@@ -8,14 +8,13 @@ I love learning new skills and teaming with fellow developers to build amazing s
 
 ## 📫 Get in touch
 
-Twitter: [@oluwakeyejohn](https://twitter.com/oluwakeyejohn)
+Twitter: [@john_pels](https://twitter.com/john_pels)
 
-LinkedIn: [oluwakeye-john-1706](https://www.linkedin.com/in/oluwakeye-john-1706/)
+LinkedIn: [oluwakeye-john-1706](https://www.linkedin.com/in/ajeigbejohn/)
 
-Website: https://johnkeye.com
-
+Website: http://johnpels.netlify.app/
 ---
 
 ## A simple treat for you 😉
 
-What to understand about recursion? click [Here](https://github.com/oluwakeye-john)
+What to understand about recursion? click [Here](https://github.com/john-pels)
