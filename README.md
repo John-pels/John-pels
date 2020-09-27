@@ -4,8 +4,8 @@ Heya, A Software Engineer based in Oyo State, Ibadan, Nigeria. I am passionate a
 
 I love learning new skills and teaming with fellow developers to build amazing stuff. 
 
-# 💻 K.I.S.S
-# 💻 DRY
+### K.I.S.S
+### DRY
 
 ## 📫 Get in touch
 
