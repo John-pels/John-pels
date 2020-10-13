@@ -1,6 +1,6 @@
 # 💻 Ajeigbe John Oluwaseyi
 
-Heya, A Software Engineer based in Oyo State, Ibadan, Nigeria. I am passionate about building fast, intuitive and performance-driven applications.
+Heya, I'm Software Engineer based in Oyo State, Ibadan, Nigeria. I am passionate about building fast, intuitive and performance-driven applications.
 
 I love learning new skills and teaming with fellow developers to build amazing stuff. 
 
