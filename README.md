@@ -13,8 +13,6 @@ Twitter: [@john_pels](https://twitter.com/john_pels)
 
 LinkedIn: [Ajeigbe John Oluwaseyi](https://www.linkedin.com/in/ajeigbejohn/)
 
-Website: http://johnpels.netlify.app/
-
 ## A simple treat for you 😉
 
 Want to understand recursion? click [Here](https://github.com/john-pels)
