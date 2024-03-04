@@ -1,10 +1,10 @@
 # 💻  John O. Ajeigbe
 
-Heya, I’m a Software Engineer with a proven professional years of experience building groundbreaking digital products across a variety of industries.
+Heya, I'm a seasoned Software Engineer, boasting a substantial track record of professional experience in crafting innovative digital products across diverse industries. My expertise spans a wide array of technologies and platforms, making me adept at navigating the ever-evolving landscape of software development.
 
-The internet is my fun place and my oyster. You’ll always find me contributing my knowledge, skills and experience to developing projects that make our lives easier and better.
+The internet is my fun place and my oyster. You’ll always find me contributing my knowledge, skills, and experience to developing projects that make our lives easier and better.
 
-Perhaps my favorite pastime is teaching, as I dedicate time to mentor and impart knowledge to the next generation of promising tech talent on the continent.
+Perhaps my favorite pastime is teaching, as I dedicate time to mentoring and imparting knowledge to the next generation of promising tech talent on the continent.
 
 I love learning new skills and teaming with fellow developers to build amazing stuff. 
 
