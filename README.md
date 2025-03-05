@@ -1,4 +1,4 @@
-# 💻  John O. Ajeigbe
+# 💻  John O. Emmanuel
 
 Heya, 
 
