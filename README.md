@@ -17,7 +17,7 @@ I love learning new skills and teaming with fellow developers to build amazing s
 
 Twitter: [@john_pels](https://twitter.com/john_pels)
 
-LinkedIn: [Ajeigbe John Oluwaseyi](https://www.linkedin.com/in/ajeigbejohn/)
+LinkedIn: [John O. Emmanuel](https://www.linkedin.com/in/johnoluemmanuel/)
 
 ## A simple treat for you 😉
 
